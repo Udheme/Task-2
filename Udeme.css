@@ -1,0 +1,27 @@
+
+
+body{
+    color:rgb(238, 10, 10);
+    font-size:14px;
+    text-align: left;
+}
+p{
+    color:rgb(99, 4, 99);
+    font-weight: bolder;
+    text-align:left;
+    text-decoration: underline;
+}
+h1{
+    font-size:32px;
+    color:blueviolet;
+    width:100%;
+    background-color: rgb(113, 241, 9);
+}
+ul{
+    color:rgb(11, 105, 96);
+    font-weight: bolder;
+    text-align:left;
+}
+
+
+
